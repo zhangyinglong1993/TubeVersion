@@ -4,5 +4,6 @@
     "version_code":2,
     "version_name":"1.0",
     "desc":"好评行吧啊啊 啊 啊  啊 ",
-    "is_force":false
+    "is_force":false,
+    "is_tube":false
 }
