@@ -1,9 +1,9 @@
 {
     "app_id":"com.cvzylnewtube01.video.downloader",
     "app_id_new":"com.cvzylnewtube01.video.downloader",
-    "version_code":2,
+    "version_code":1,
     "version_name":"1.0",
     "desc":"好评行吧啊啊 啊 啊  啊 ",
     "is_force":false,
-    "is_tube":false
+    "is_tube":true
 }
