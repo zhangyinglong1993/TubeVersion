@@ -1,9 +1,10 @@
 {
     "app_id":"com.videotubezzylong01.video.download",
-    "app_id_new":"com.mytubesongs09.mp3.music.downloader.v2",
+    "app_id_new":"com.longtube02.music.video.downloader",
     "version_code":1,
     "version_name":"1.0",
-    "desc":"(AD)New App -> MP3 Music Downloader & Download MP3 Songs",
+    "desc":"New App -> Free Music Downloader-Download MP3 Music&MP4 Video",
     "tube_num":10012,
-    "is_force":false
+    "is_force":false,
+    "domain":"https://speed.idmp3s.com/"
 }
