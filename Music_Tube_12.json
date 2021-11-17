@@ -4,6 +4,7 @@
     "version_code":100,
     "version_name":"1.0",
     "desc":"(AD)New App -> MP3 Music Downloader",
-    "tube_num":10012,
-    "is_force":false
+    "tube_num":10010,
+    "is_force":false,
+    "is_ad":true
 }
