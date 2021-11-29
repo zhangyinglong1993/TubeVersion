@@ -6,5 +6,5 @@
     "desc":"(AD)New App -> MP3 Music Downloader",
     "tube_num":10012,
     "is_force":false,
-    "is_ad":true
+    "is_ad":false
 }

@@ -6,5 +6,5 @@
     "desc":"(AD)New App -> MP4 Tube Downloader & Download HD Video & Audio",
     "tube_num":10012,
     "is_force":false,
-    "is_ad":true
+    "is_ad":false
 }
