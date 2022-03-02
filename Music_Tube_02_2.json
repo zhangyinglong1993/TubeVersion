@@ -4,7 +4,7 @@
     "version_code":1,
     "version_name":"1.0",
     "desc":"(AD)New App -> MP4 Tube Downloader & Download HD Video & Audio",
-    "tube_num":2,
+    "tube_num":0,
     "is_force":false,
     "is_ad":true
 }
